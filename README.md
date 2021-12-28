@@ -1,0 +1,1 @@
+Prepared the transactional dataset, a datawarehouse was created with proper utilization of ETL tools such as SSMS, and SSIS. After deployment of OLAP cube, datamvisualization was peeformed through Excel, SSRS reports using report builder excel and also power BI.
